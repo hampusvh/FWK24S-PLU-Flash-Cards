@@ -22,4 +22,4 @@ Funkar både för snabb repetition och djupare förståelse.
 
 - **Snabbrepetition:** använd `flashcards-simplified.md`  
 - **Förklaring på svenska:** slå upp i `flashcards-sv.md`  
-- **Original (engelska):** jämför med `flashcards-en.md`  
+- **Original (engelska):** `flashcards-en.md`  
