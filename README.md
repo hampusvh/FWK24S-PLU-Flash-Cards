@@ -1,4 +1,4 @@
-# 📝 Flash Cards
+# 📝 Flashcards
 
 <br>
 
@@ -7,7 +7,7 @@
 
 <br>
 
-Ett samlat repository med flash cards för kursen **Paketering, Leverans & Uppföljning**.  
+Ett samlat repository med flashcards för kursen **Paketering, Leverans & Uppföljning**.  
 Alla filer innehåller samma nyckelbegrepp på olika detaljnivåer.  
 
 Passar både för **snabb repetition** och för **djupare förståelse** inför tentan.
